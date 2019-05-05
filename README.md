@@ -2,12 +2,19 @@
 
 ### Motivation
 
-I have been cricket fan since childhood. I have followed nearly all the cricket world cups in my lifetime. Now that I entered the field of Data Science I wanted to use my Machine learning and web scraping skills to predict the winner of ICC world cup 2019.
 
-### Resources :
+Cricket is an integral part of every Indian's life. I have following cricket since childhood.Now that I entered the field of Data Science I thought of making use of my machine learning and web scraping skills to predict the winner of ICC world cup 2019.
+
+### Data
+The primary source of data for this project is ESPNcricinfo.com. The website is truly unparalleled in terms of the wealth of statistics it possesses. Scripts will scrape one-day international matches', players' and grounds' details.
+
+Secondary sources of data will include a weather application and others (TBD at this point).
+
+
+### References :
 
 Motivation : [Using artificial intelligence to predict 2019 Cricket World Cup](https://www.sportskeeda.com/cricket/ai-prediction-for-2019-cricket-world-cup)
 
-Web scraping: [espncricinfo](http://www.espncricinfo.com/)
+Data source : [espncricinfo](http://www.espncricinfo.com/)
 
-![](imgs/ICC_WC_2019.png)
+<img src="imgs/ICC_WC_2019.png" alt="drawing" width="600"/>
