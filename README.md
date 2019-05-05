@@ -18,5 +18,5 @@ Motivation : [Using artificial intelligence to predict 2019 Cricket World Cup](h
 Data source : [espncricinfo](http://www.espncricinfo.com/)
 
 <p align="center">
-  <img width="200" height="200" src="imgs/ICC_WC_2019.png">
+  <img width="500" height="500" src="imgs/ICC_WC_2019.png">
 </p>
